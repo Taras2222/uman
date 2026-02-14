@@ -40,7 +40,7 @@ body {
 /* ---  Гостевая  --- */
 .presentation {
     position: relative;
-    height: 300vh;
+    height: 1000vh;
     background: url(imgs/mid-adult-worker-carrying-cardboard-box-while-working-with-colleagues-industrial-warehouse.jpg) no-repeat center center/cover;
     display: flex;
     justify-content: center;
@@ -343,6 +343,7 @@ footer {
     color: #ff6600;
 
 }
+
 
 
 
